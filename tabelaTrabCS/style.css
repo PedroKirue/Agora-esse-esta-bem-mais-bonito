@@ -1,0 +1,65 @@
+*{
+    margin: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+h1{
+
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #021727;
+    margin: 0 auto;
+    width: auto;
+    display: table;
+    text-align: center;
+    margin-top: auto;
+}
+h2{
+    font-size: 60px;
+}
+input{
+    margin-top: 0%;
+}
+#calcular{
+    color: white;
+    background-color: brown;
+    border-radius: 50px;
+}
+#nome{
+    border-radius: 7px;
+}
+#altura{
+    border-radius: 7px;
+}
+#peso{
+    margin-left: 100px;
+    border-radius: 7px;
+}
+div{
+    font-size:15px;
+    margin-left:100px;
+}
+#tabela{
+    margin-top: 30px;
+    background-color: rgb(63, 245, 160);
+    margin-left: 60px;
+    border-radius: 7px;
+}
+
+body{
+    background-color: rgb(9, 2, 15);
+    text-align: center;
+}
+section{
+    text-align: center;
+    background-color: rgb(101, 248, 180);
+    padding:15px;
+    width:350px ;
+    margin: auto;
+    border-radius: 10px;
+    height: 350px;
+}
+table{
+    color: black;
+    background-color: white; 
+    
+}
